@@ -19,6 +19,7 @@ body {
 
 #root {
   @apply w-full max-w-screen-2xl;
+  @apply px-8;
 }
 
 code {
