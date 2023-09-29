@@ -251,7 +251,7 @@
       "etag": "GOcqOv5aA7gUgJpLM5qCq3QGwh4",
       "id": {
         "kind": "youtube#channel",
-        "channelId": "UCKo-NbWOxnxBnU41b-AoKeA"
+        "videoId": "UCKo-NbWOxnxBnU41b-AoKeA"
       },
       "snippet": {
         "publishedAt": "2005-11-02T06:29:47Z",
