@@ -17,7 +17,6 @@ export default function Videos() {
 
   return (
     <>
-      <div>Videos {keyword ? `🔎 ${keyword}` : '🔥'}</div>
       {isLoading && <p>Loading...</p>}
       {error && <p>Error occured!</p>}
       {videos && (
