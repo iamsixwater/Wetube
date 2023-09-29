@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "icgP__WW4K5Vm11RIOt8jMqrBlw",
+  "etag": "aX-XDtFy7qhIr6Rc1fs672kkERg",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,33 +8,33 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "X-Sf3EmAQyns7dUJk8HmwDkN7v0",
-      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "etag": "ZlLt_eaGfdePHUaqV75mFxYgatg",
+      "id": "UCgPClNr5VSYC3syrDUIlzLw",
       "snippet": {
-        "title": "Google for Developers",
-        "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
-        "customUrl": "@googledevelopers",
-        "publishedAt": "2007-08-23T00:34:43Z",
+        "title": "Adult Swim",
+        "description": "Watch adult swim on Max, www.adultswim.com, or by downloading the adult swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more.",
+        "customUrl": "@adultswim",
+        "publishedAt": "2006-03-03T02:37:54Z",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s88-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/KIq94K1ZMmnxu14wvGRBQpALqFRe8t7Li8ki-MMzN8tjUzyH07Cwi8IgT-eVUX7Q20pPcKrJwQ=s88-c-k-c0x00ffffff-no-rj",
             "width": 88,
             "height": 88
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s240-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/KIq94K1ZMmnxu14wvGRBQpALqFRe8t7Li8ki-MMzN8tjUzyH07Cwi8IgT-eVUX7Q20pPcKrJwQ=s240-c-k-c0x00ffffff-no-rj",
             "width": 240,
             "height": 240
           },
           "high": {
-            "url": "https://yt3.ggpht.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s800-c-k-c0x00ffffff-no-rj",
+            "url": "https://yt3.ggpht.com/KIq94K1ZMmnxu14wvGRBQpALqFRe8t7Li8ki-MMzN8tjUzyH07Cwi8IgT-eVUX7Q20pPcKrJwQ=s800-c-k-c0x00ffffff-no-rj",
             "width": 800,
             "height": 800
           }
         },
         "localized": {
-          "title": "Google for Developers",
-          "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
+          "title": "Adult Swim",
+          "description": "Watch adult swim on Max, www.adultswim.com, or by downloading the adult swim app. Binge marathons or watch selected episodes of many of your favorite shows including Rick and Morty, SMILING FRIENDS, The Boondocks, Aqua Teen Hunger Force, and many more."
         },
         "country": "US"
       }
