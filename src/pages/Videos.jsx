@@ -16,7 +16,7 @@ export default function Videos() {
   });
 
   return (
-    <>
+    <div className='px-8'>
       {isLoading && <p>Loading...</p>}
       {error && <p>Error occured!</p>}
       {videos && (
@@ -26,6 +26,6 @@ export default function Videos() {
           ))}
         </ul>
       )}
-    </>
+    </div>
   );
 }
